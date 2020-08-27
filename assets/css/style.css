@@ -41,14 +41,14 @@ canvas {
 
 footer {
     background-color:rgba(0, 0, 0, 0.534);
-    text-align: center;
     text-shadow: 0 5px 10px rgb(248, 47, 47),
                  2px 2px 5px rgb(238, 241, 238);
     font-family: 'Bebas Neue', cursive;
     font-size: 20px;
+    position: absolute;
+    bottom: 0;
     width: 100%;
-    margin: 2px auto 0 auto;
-    display: table;
+    text-align: center;
 }
 
 /** how to play here **/
