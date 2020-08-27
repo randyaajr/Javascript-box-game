@@ -2,7 +2,7 @@
 
 #### Creation date of Boxie - 8/14/20
 
-# Initial release of Boxie v1.0 - 8/26/20
+# Boxie v1.1
 
 ## Improvements
 
